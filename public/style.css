@@ -1,0 +1,251 @@
+.navbar {
+	background-color: #1e1d1d;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+	border:0;
+	position: fixed;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+      background-color: #4f5154 !important;
+      font-size: 105%;
+}
+
+.navlogo {
+	margin-top: -20px;
+	margin-bottom: -20px;
+}
+
+.nav-item {
+	letter-spacing: 1px;
+}
+
+.buttonLogin {
+	text-align: center;
+}
+
+h1 {
+    font-family: 'Coustard', serif;
+    font-weight: 900;
+    line-height: 46px;
+    font-size: 41px;
+    margin: 0 0 23px 0;
+    }
+p {
+    font-family: 'Cantarell', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    }
+
+.img-rounded {
+	border-radius: 50%;
+}
+
+/* body {
+	background-image: url("pictures/bg2.png");
+} */
+
+
+/*HOME*/
+
+
+/*Membership*/
+
+.coverMembershipform {
+	background-color: #131fad;
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-right: 2%;
+}
+
+.coverEmail {
+	background-color: #910404;
+	color: white;
+}
+
+#form {
+	width: 80%;
+}
+
+.inputform {
+	width: 90%;
+	margin: 0px auto;
+}
+
+.col-centered {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+
+/* Admin News & Events */
+
+.adminInput {
+	text-align-last: center;
+}
+
+.adminNewsandEventsForm {
+	width: 95%;
+}
+
+.textAreanewsAndEvent {
+	width: 90%;
+	height: 200px;
+}
+
+/* News & Events */
+
+.imgNews {
+	width: 600px;
+	height: 300px;
+}
+
+/* Contact US */
+
+.contactUsPage {
+	width: 70%;
+	z-index: 4;
+}
+
+.contactus {
+	padding-top: 9%;
+	padding-bottom: 4%;
+}
+
+.contactUsPage {
+	color: white;
+}
+
+.linksites {
+	color: #0109a3;
+}
+
+.fa-facebook-official {
+	color: #0109a3;
+}
+
+.linkSitesAll {
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+
+.contactusImg {
+	width: 100%;
+	position: fixed;
+	z-index: -1;
+}
+
+/*.backgroundPhoto {
+	background-image: url("pictures/nzmap7.png");
+	z-index: 1;
+	width: 100%;
+}
+*/
+
+/* Junior Program */
+
+.juniorlinks {
+	width: 5%;
+	padding-right: 1%;
+}
+
+.juniorlinksall {
+	text-align-last: center;
+}
+
+.paneljunior2 {
+	background-image: url("pictures/paneljunior2.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	z-index: 2;
+} 
+
+.paneljunior3 {
+	background-image: url("pictures/paneljunior3.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	z-index: 2;
+} 
+
+.paneljunior{
+    background: transparent;
+    border-style: none;
+    color: white;
+}
+
+.paneljunior1 {
+	background-image: url("pictures/paneljunior1.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	z-index: 2;
+}
+
+.juniorbg {
+	background-color: #003509;
+}
+
+
+.juniorcoachingbg {
+	background-color: #9ef481;
+	color: black;
+}
+
+.juniorHoliday {
+	background-color: #e3fce7;
+}
+
+.holidayprograms1 {
+	width: 100%;
+	height: auto;
+}
+
+.holidayprograms2b {
+	width: 100%;
+	height: auto;
+}
+
+.juniorHotshots {
+	color: black;
+}
+
+/*coaching*/
+
+.coaching {
+	padding-top: 3%;
+}
+
+.coachingcardio {
+	width: 100%;
+	height: auto;
+}
+
+.coachingexpress {
+	width: 100%;
+	height: auto;
+}
+
+/* interclub */
+
+.interclubbg {
+	background-image: url("pictures/interclubbg.png");
+	width: 100%;
+	height: 1050px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.clubnightcaption {
+	color: white;
+	padding-top: 5%;
+}
+
+.juniorlink {
+	width: 30%;
+	padding-right: 1%;
+	padding-left: 1%;
+}
